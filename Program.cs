@@ -7,6 +7,8 @@ namespace VS2019_AnotherTest
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World again LOL !");
+            Console.WriteLine(" Changes added  !");
+
         }
     }
 }
